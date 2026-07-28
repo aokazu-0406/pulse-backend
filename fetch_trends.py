@@ -7,7 +7,7 @@ def fetch_genre(genre_id, config):
             articles.append({
                 "genre": genre_id,
                 "emoji": "📰",  # ジャンルごとに固定の絵文字を割り当てるだけでOK
-                "kw": entry.get("title", "")[:16],
+                "kw": entry.get("title", "")[:30],
                 "f1": entry.get("summary", "")[:60],
                 "f2": "",
                 "source": parsed.feed.get("title", url),
