@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T12:25:37.642895+00:00",
+  "updated_at": "2026-07-28T20:06:41.505043+00:00",
   "articles": [
     {
       "genre": "android",
@@ -22,6 +22,15 @@
     {
       "genre": "android",
       "emoji": "📰",
+      "kw": "Celebrating 5 years of Jetpack",
+      "f1": "Posted by Rebecca Franks, Developer Relations Engineer, Nick Butcher, Product Ma",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html"
+    },
+    {
+      "genre": "android",
+      "emoji": "📰",
       "kw": "Build intelligent Android apps",
       "f1": "Posted by Thomas Ezan, Jolanda Verhoef, Caren Chang, Senior Developer Relations ",
       "f2": "",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-appfunctions.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Build intelligent Android apps",
-      "f1": "Posted by Jolanda Verhoef, Senior Developer Relations Engineer,&nbsp;Android Dev",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-introduction-jetpack.html"
     }
   ]
 }
