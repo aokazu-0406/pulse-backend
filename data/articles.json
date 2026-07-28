@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-28T05:45:33.662723+00:00",
+  "updated_at": "2026-07-28T05:57:20.605588+00:00",
   "articles": [
     {
       "genre": "android",
       "emoji": "📰",
-      "kw": "How R8 made Kotl",
-      "f1": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2",
+      "kw": "How R8 made Kotlin Coroutines ",
+      "f1": "Posted by Andrei Shikov, Senior Software Engineer, Android Toolkit and Jonathan ",
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/07/how-r8-made-kotlin-coroutines-2x-faster.html"
@@ -13,8 +13,8 @@
     {
       "genre": "android",
       "emoji": "📰",
-      "kw": "Optimize your ap",
-      "f1": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2",
+      "kw": "Optimize your apps for the nex",
+      "f1": "Posted by Fahd Imtiaz, Senior Product Manager and Miguel Montemayor, Developer R",
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/07/optimize-galaxy-screen-sizes.html"
@@ -22,8 +22,8 @@
     {
       "genre": "android",
       "emoji": "📰",
-      "kw": "Build intelligen",
-      "f1": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2",
+      "kw": "Build intelligent Android apps",
+      "f1": "Posted by Thomas Ezan, Jolanda Verhoef, Caren Chang, Senior Developer Relations ",
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-cloud-hybrid-inference.html"
@@ -31,8 +31,8 @@
     {
       "genre": "android",
       "emoji": "📰",
-      "kw": "Build intelligen",
-      "f1": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2",
+      "kw": "Build intelligent Android apps",
+      "f1": "Posted by Ben Weiss, Senior Developer Relations Engineer,&nbsp;Android Developer",
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-appfunctions.html"
@@ -40,8 +40,8 @@
     {
       "genre": "android",
       "emoji": "📰",
-      "kw": "Build intelligen",
-      "f1": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2",
+      "kw": "Build intelligent Android apps",
+      "f1": "Posted by Jolanda Verhoef, Senior Developer Relations Engineer,&nbsp;Android Dev",
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-introduction-jetpack.html"
