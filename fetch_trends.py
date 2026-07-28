@@ -1,3 +1,4 @@
+import re
 import feedparser
 def fetch_genre(genre_id, config):
     articles = []
@@ -8,7 +9,7 @@ def fetch_genre(genre_id, config):
                 "genre": genre_id,
                 "emoji": "📰",  # ジャンルごとに固定の絵文字を割り当てるだけでOK
                 "kw": entry.get("title", "")[:30],
-                "f1": entry.get("summary", "")[:60],
+                "f1": clean_html(entry.get("summary", ""))[:80],
                 "f2": "",
                 "source": parsed.feed.get("title", url),
                 "link": entry.get("link", ""),
@@ -44,3 +45,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+def clean_html(text):
+    return re.sub(r"<[^>]+>", "", text).strip()
