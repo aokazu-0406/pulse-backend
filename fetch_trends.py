@@ -1,3 +1,4 @@
+import feedparser
 def fetch_genre(genre_id, config):
     articles = []
     for url in config["feeds"]:
@@ -13,6 +14,7 @@ def fetch_genre(genre_id, config):
                 "link": entry.get("link", ""),
             })
     return articles
+import feedparser
 import json
 import os
 from datetime import datetime, timezone
