@@ -1,5 +1,9 @@
 import re
 import feedparser
+
+def clean_html(text):
+    return re.sub(r"<[^>]+>", "", text).strip()
+    
 def fetch_genre(genre_id, config):
     articles = []
     for url in config["feeds"]:
@@ -45,5 +49,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-def clean_html(text):
-    return re.sub(r"<[^>]+>", "", text).strip()
