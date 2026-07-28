@@ -13,3 +13,32 @@ def fetch_genre(genre_id, config):
                 "link": entry.get("link", ""),
             })
     return articles
+import json
+import os
+from datetime import datetime, timezone
+
+GENRES = {
+    "hardware": {
+        "feeds": ["https://www.itmedia.co.jp/pcuser/rss/index.rdf"],
+    },
+    "android": {
+        "feeds": ["https://android-developers.googleblog.com/feeds/posts/default"],
+    },
+    # 他ジャンルも同様に追加していい
+}
+
+def main():
+    all_articles = []
+    for genre_id, config in GENRES.items():
+        all_articles.extend(fetch_genre(genre_id, config))
+
+    output = {
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "articles": all_articles,
+    }
+    os.makedirs("data", exist_ok=True)
+    with open("data/articles.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+if __name__ == "__main__":
+    main()
