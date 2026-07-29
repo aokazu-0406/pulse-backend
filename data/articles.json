@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-07-29T16:53:59.780776+00:00",
+  "updated_at": "2026-07-29T21:16:09.203510+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Delivering safer, age-appropri",
+      "f1": "Posted by Paul Feng, VP of Product Management, Google PlayProviding a safe onlin",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-cloud-hybrid-inference.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Build intelligent Android apps",
-      "f1": "Posted by Ben Weiss, Senior Developer Relations Engineer,&nbsp;Android Developer",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-appfunctions.html"
     }
   ]
 }
