@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-07-28T20:06:41.505043+00:00",
+  "updated_at": "2026-07-29T00:13:31.706587+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Celebrating 5 years of Jetpack",
+      "f1": "Posted by Rebecca Franks, Developer Relations Engineer, Nick Butcher, Product Ma",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -18,15 +27,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/07/optimize-galaxy-screen-sizes.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Celebrating 5 years of Jetpack",
-      "f1": "Posted by Rebecca Franks, Developer Relations Engineer, Nick Butcher, Product Ma",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html"
     },
     {
       "genre": "android",
