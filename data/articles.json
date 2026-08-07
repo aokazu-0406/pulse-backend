@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-06T10:15:49.139649+00:00",
+  "updated_at": "2026-08-07T04:37:38.779841+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Inside Android Skills - Built ",
+      "f1": "Posted by Jose Alcérreca, Developer Relations Engineer, Android Developer Relati",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/android-skills-philosophy.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/07/optimize-galaxy-screen-sizes.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Build intelligent Android apps",
-      "f1": "Posted by Thomas Ezan, Jolanda Verhoef, Caren Chang, Senior Developer Relations ",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-cloud-hybrid-inference.html"
     }
   ]
 }
