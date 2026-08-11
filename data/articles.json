@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-11T13:22:18.281128+00:00",
+  "updated_at": "2026-08-11T16:04:41.164513+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Media3 1.11 - What's new?",
+      "f1": "Posted by Toni Heidenreich, Software Engineer, Android\n  Media3 1.11 is out. Pow",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/media3-1-11-whats-new.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/07/how-r8-made-kotlin-coroutines-2x-faster.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Optimize your apps for the nex",
-      "f1": "Posted by Fahd Imtiaz, Senior Product Manager and Miguel Montemayor, Developer R",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/07/optimize-galaxy-screen-sizes.html"
     }
   ]
 }
