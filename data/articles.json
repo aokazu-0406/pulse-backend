@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-08-12T16:03:21.764589+00:00",
+  "updated_at": "2026-08-12T19:11:50.319668+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Enhance your app for the new P",
+      "f1": "Posted by J. Eason, Director, Product Management, Loryn Hairston, Product Market",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html"
+    },
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Bring one-handed gestures to y",
+      "f1": "Posted by Chiara Chiappini, Developer Relation Engineer, Android Developer Relat",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/one-handed-gestures-wear-os.html"
+    },
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "What's new in the Jetpack Comp",
+      "f1": "Posted by Nick Butcher, Product Manager, Jetpack ComposeToday, the Jetpack Compo",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/jetpack-compose-august-2026-release.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -18,33 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/08/android-skills-philosophy.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Delivering safer, age-appropri",
-      "f1": "Posted by Paul Feng, VP of Product Management, Google PlayProviding a safe onlin",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Celebrating 5 years of Jetpack",
-      "f1": "Posted by Rebecca Franks, Developer Relations Engineer, Nick Butcher, Product Ma",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "How R8 made Kotlin Coroutines ",
-      "f1": "Posted by Andrei Shikov, Senior Software Engineer, Android Toolkit and Jonathan ",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/07/how-r8-made-kotlin-coroutines-2x-faster.html"
     }
   ]
 }
