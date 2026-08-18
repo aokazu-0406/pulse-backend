@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-18T15:38:33.073242+00:00",
+  "updated_at": "2026-08-18T18:49:04.085581+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Tinder cuts app cold starts by",
+      "f1": "Posted by Ajesh R Pai, Developer Relations Engineer, Ulises Uriel Verduzco Diaz,",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/tinder-app-cold-start-r8-configuration-analyzer.html"
+    },
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Jetpack XR SDK core libraries ",
+      "f1": "Posted by Amy Zeppenfeld, Developer Relations Engineer, Greg Underwood, Software",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/jetpack-xr-sdk-core-libraries-beta.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -27,24 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/08/jetpack-compose-august-2026-release.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Media3 1.11 - What's new?",
-      "f1": "Posted by Toni Heidenreich, Software Engineer, Android\n  Media3 1.11 is out. Pow",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/media3-1-11-whats-new.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Inside Android Skills - Built ",
-      "f1": "Posted by Jose Alcérreca, Developer Relations Engineer, Android Developer Relati",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/android-skills-philosophy.html"
     }
   ]
 }
