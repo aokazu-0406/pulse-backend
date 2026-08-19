@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-19T18:45:11.705394+00:00",
+  "updated_at": "2026-08-19T21:32:19.189482+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Preparing your app for broader",
+      "f1": "Posted by Blair Harmon, Director of Product Management, Android PlatformA great ",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/app-broader-memory-limits.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/08/one-handed-gestures-wear-os.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "What's new in the Jetpack Comp",
-      "f1": "Posted by Nick Butcher, Product Manager, Jetpack ComposeToday, the Jetpack Compo",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/jetpack-compose-august-2026-release.html"
     }
   ]
 }
