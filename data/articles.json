@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-24T15:47:30.018792+00:00",
+  "updated_at": "2026-08-24T18:50:53.282093+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "AAOS SDV - Secure by Design",
+      "f1": "Posted by Markus Vill, Software Engineer, Sean Keys, Security Engineer, and Istv",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/aaos-sdv-secure-by-design.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Bring one-handed gestures to y",
-      "f1": "Posted by Chiara Chiappini, Developer Relation Engineer, Android Developer Relat",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/one-handed-gestures-wear-os.html"
     }
   ]
 }
