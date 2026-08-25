@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-25T15:51:00.694352+00:00",
+  "updated_at": "2026-08-25T18:49:26.569584+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Ensuring Safety in the Generat",
+      "f1": "Posted by Ron Aquino, Senior Director, Trust &amp; Safety, Chrome, Android, and ",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/ensuring-safety-genai-preventing-non-consensual-intimate-content.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/08/jetpack-xr-sdk-core-libraries-beta.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Enhance your app for the new P",
-      "f1": "Posted by Fahd Imtiaz, Senior Product Manager,&nbsp;Loryn Hairston, Product Mark",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html"
     }
   ]
 }
