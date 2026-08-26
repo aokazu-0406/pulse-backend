@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-26T16:23:50.477985+00:00",
+  "updated_at": "2026-08-26T19:56:01.177999+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Elevating app quality: Reducin",
+      "f1": "Posted by Raghavendra Hareesh Pottamsetty, GM, Google Play Developer &amp; Monet",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/app-quality-memory-optimization-secure-onboarding.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/08/tinder-app-cold-start-r8-configuration-analyzer.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Jetpack XR SDK core libraries ",
-      "f1": "Posted by Amy Zeppenfeld, Developer Relations Engineer, Greg Underwood, Software",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/jetpack-xr-sdk-core-libraries-beta.html"
     }
   ]
 }
