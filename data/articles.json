@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-27T14:03:03.731758+00:00",
+  "updated_at": "2026-08-28T00:20:42.022950+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "How WhatsApp Upgraded to Secur",
+      "f1": "Posted by Niharika Arora, Senior Developer Relations Engineer, Tracy Agyemang, P",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/08/app-broader-memory-limits.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Tinder cuts app cold starts by",
-      "f1": "Posted by Ajesh R Pai, Developer Relations Engineer, Ulises Uriel Verduzco Diaz,",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/tinder-app-cold-start-r8-configuration-analyzer.html"
     }
   ]
 }
