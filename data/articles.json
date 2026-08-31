@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-31T13:26:58.176971+00:00",
+  "updated_at": "2026-08-31T20:45:14.475300+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Emulator control for adaptive ",
+      "f1": "Posted by Rob Orgiu, Developer Relations Engineer, Adaptive Apps, AndroidAdaptiv",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/08/emulator-adaptive.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/08/aaos-sdv-secure-by-design.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Preparing your app for broader",
-      "f1": "Posted by Blair Harmon, Director of Product Management, Android PlatformA great ",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/app-broader-memory-limits.html"
     }
   ]
 }
