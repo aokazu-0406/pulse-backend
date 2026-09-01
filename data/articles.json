@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-01T14:05:29.601251+00:00",
+  "updated_at": "2026-09-01T18:20:22.065572+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Leverage Android skills and Ge",
+      "f1": "Posted by Amman Fasil Asfaw, Product Manager, Android StudioAndroid Studio Quail",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/08/ensuring-safety-genai-preventing-non-consensual-intimate-content.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "AAOS SDV - Secure by Design",
-      "f1": "Posted by Markus Vill, Software Engineer, Sean Keys, Security Engineer, and Istv",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/aaos-sdv-secure-by-design.html"
     }
   ]
 }
