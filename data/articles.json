@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-17T11:28:17.495972+00:00",
+  "updated_at": "2026-09-17T16:47:28.088532+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Android Bench 2.0: Pushing the",
+      "f1": "Posted by Matthew McCullough, VP, Product Management, Android Developer\nWhen we ",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/09/android-bench-2-long-horizon-tasks.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Elevating app quality: Reducin",
-      "f1": "Posted by Raghavendra Hareesh Pottamsetty, GM, Google Play Developer &amp; Monet",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/app-quality-memory-optimization-secure-onboarding.html"
     }
   ]
 }
