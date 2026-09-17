@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-17T16:47:28.088532+00:00",
+  "updated_at": "2026-09-17T21:13:37.617219+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Introducing the AndroidX Secur",
+      "f1": "Posted by Maunik Shah, Staff Software Engineer, Alec Garcia, Software Engineer, ",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/08/emulator-adaptive.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "How WhatsApp Upgraded to Secur",
-      "f1": "Posted by Niharika Arora, Senior Developer Relations Engineer, Tracy Agyemang, P",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html"
     }
   ]
 }
