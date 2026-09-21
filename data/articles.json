@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-21T12:36:58.813043+00:00",
+  "updated_at": "2026-09-21T19:56:04.781008+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Bring your Android game to the",
+      "f1": "Posted by Jan Kleinert, Developer Relations Engineer, Android for CarsToday, the",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/09/bring-android-game-to-car-screen.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Emulator control for adaptive ",
-      "f1": "Posted by Rob Orgiu, Developer Relations Engineer, Adaptive Apps, AndroidAdaptiv",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/08/emulator-adaptive.html"
     }
   ]
 }
