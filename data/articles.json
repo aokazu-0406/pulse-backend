@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-22T16:45:55.623857+00:00",
+  "updated_at": "2026-09-22T21:10:34.429585+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Land your apps on Googlebook w",
+      "f1": "Posted by Fahd Imtiaz, Senior Product Manager, and Loryn Hairston, Product Marke",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/09/wireless-debugging-adb-wifi-2.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Leverage Android skills and Ge",
-      "f1": "Posted by Amman Fasil Asfaw, Product Manager, Android StudioAndroid Studio Quail",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html"
     }
   ]
 }
