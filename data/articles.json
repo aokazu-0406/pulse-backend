@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-28T13:38:16.163694+00:00",
+  "updated_at": "2026-09-28T21:10:47.506338+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Build intelligent Android apps",
+      "f1": "Posted by Jolanda Verhoef, Senior Developer Relations Engineer, Android Develope",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/09/android-agentic-workflows.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Android Bench 2.0: Pushing the",
-      "f1": "Posted by Matthew McCullough, VP, Product Management, Android Developer\nWhen we ",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/09/android-bench-2-long-horizon-tasks.html"
     }
   ]
 }
