@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-30T17:55:48.976933+00:00",
+  "updated_at": "2026-09-30T22:09:04.886025+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "How Instagram Direct engineers",
+      "f1": "Posted by Pavlo Stavytskyi, Software Engineer, Meta and Rebecca Franks, Develope",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/09/jetpack-compose-ai-native-ui-instagram-direct.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Bring your Android game to the",
-      "f1": "Posted by Jan Kleinert, Developer Relations Engineer, Android for CarsToday, the",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/09/bring-android-game-to-car-screen.html"
     }
   ]
 }
