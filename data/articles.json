@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-02T09:36:27.341052+00:00",
+  "updated_at": "2026-10-02T17:46:42.506131+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Device Streaming and Android s",
+      "f1": "Posted by Simona Milanovic, Developer Relations EngineerAs Android developers, y",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/10/android-cli-device-streaming-and-skills.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/09/build-your-way-use-any-ai-agent-in-android-studio.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Land your apps on Googlebook w",
-      "f1": "Posted by Fahd Imtiaz, Senior Product Manager, and Loryn Hairston, Product Marke",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html"
     }
   ]
 }
