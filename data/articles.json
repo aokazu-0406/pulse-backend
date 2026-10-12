@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-12T10:35:21.587956+00:00",
+  "updated_at": "2026-10-12T21:11:42.887831+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Introducing the Googlebook Lin",
+      "f1": "Posted by Cyrus Stoller, Group Product Manager, Laptops &amp; TabletsToday, gett",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/09/android-agentic-workflows.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Build your way: Use any AI age",
-      "f1": "Posted by Matthew Warner, Product Manager, Android Developer ExperienceAI-powere",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/09/build-your-way-use-any-ai-agent-in-android-studio.html"
     }
   ]
 }
