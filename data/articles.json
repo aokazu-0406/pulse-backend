@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-13T16:51:54.648549+00:00",
+  "updated_at": "2026-10-13T22:33:57.862780+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "New ways to drive smarter disc",
+      "f1": "Posted by Paul Feng, VP of Product Management, Google Play, Google PlayToday, we",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/10/new-tools-for-discovery-and-engagement.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/09/jetpack-compose-ai-native-ui-instagram-direct.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Driving growth on Google Play:",
-      "f1": "Posted by Sheenam Mittal, Senior Product Manager, Google PlayThe subscription la",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/09/unlocking-Google-play-subscription-growth.html"
     }
   ]
 }
