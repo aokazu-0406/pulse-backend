@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-13T06:35:44.475468+00:00",
+  "updated_at": "2026-10-13T16:51:54.648549+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Bringing our latest frontier m",
+      "f1": "Posted by Jason Buchel, Creative Technologist, Platform &amp; Devices\n  \n    \n  ",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/10/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/09/unlocking-Google-play-subscription-growth.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Build intelligent Android apps",
-      "f1": "Posted by Jolanda Verhoef, Senior Developer Relations Engineer, Android Develope",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/09/android-agentic-workflows.html"
     }
   ]
 }
