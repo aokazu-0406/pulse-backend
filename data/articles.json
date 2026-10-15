@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-15T16:47:39.693544+00:00",
+  "updated_at": "2026-10-15T21:14:07.558245+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Android Developers Blog is mov",
+      "f1": "Posted by the Android Developers TeamToday, we are closing this chapter on Blogg",
+      "f2": "",
+      "source": "Android Developers Blog",
+      "link": "https://android-developers.googleblog.com/2026/10/android-developers-blog-is-moving.html"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers Blog",
       "link": "https://android-developers.googleblog.com/2026/10/android-cli-device-streaming-and-skills.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "How Instagram Direct engineers",
-      "f1": "Posted by Pavlo Stavytskyi, Software Engineer, Meta and Rebecca Franks, Develope",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/09/jetpack-compose-ai-native-ui-instagram-direct.html"
     }
   ]
 }
