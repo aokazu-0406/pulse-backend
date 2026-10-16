@@ -1,50 +1,50 @@
 {
-  "updated_at": "2026-10-16T11:11:01.524223+00:00",
+  "updated_at": "2026-10-16T16:29:42.572375+00:00",
   "articles": [
     {
       "genre": "android",
       "emoji": "📰",
-      "kw": "Android Developers Blog is mov",
-      "f1": "Posted by the Android Developers TeamToday, we are closing this chapter on Blogg",
+      "kw": "Bringing our latest frontier m",
+      "f1": "As agentic development accelerates, Android engineering is reaching an exciting ",
       "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/10/android-developers-blog-is-moving.html"
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli"
     },
     {
       "genre": "android",
       "emoji": "📰",
       "kw": "New ways to drive smarter disc",
-      "f1": "Posted by Paul Feng, VP of Product Management, Google Play, Google PlayToday, we",
+      "f1": "Today, we shared how we’re taking our “more than a store” vision into its next c",
       "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/10/new-tools-for-discovery-and-engagement.html"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Bringing our latest frontier m",
-      "f1": "Posted by Jason Buchel, Creative Technologist, Platform &amp; Devices\n  \n    \n  ",
-      "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/10/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli.html"
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/google-play-discovery-engagement-growth"
     },
     {
       "genre": "android",
       "emoji": "📰",
       "kw": "Introducing the Googlebook Lin",
-      "f1": "Posted by Cyrus Stoller, Group Product Manager, Laptops &amp; TabletsToday, gett",
+      "f1": "With Googlebook, we’re excited to help users express themselves and gain access ",
       "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html"
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm"
     },
     {
       "genre": "android",
       "emoji": "📰",
       "kw": "Device Streaming and Android s",
-      "f1": "Posted by Simona Milanovic, Developer Relations EngineerAs Android developers, y",
+      "f1": "As Android developers, you have many choices when it comes to the agents, LLMs, ",
       "f2": "",
-      "source": "Android Developers Blog",
-      "link": "https://android-developers.googleblog.com/2026/10/android-cli-device-streaming-and-skills.html"
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/android-cli-device-streaming-and-skills"
+    },
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "How Instagram Direct engineers",
+      "f1": "The team built an AI-native UI codebase that is 50% smaller than the original im",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/jetpack-compose-ai-native-ui-instagram-direct"
     }
   ]
 }
