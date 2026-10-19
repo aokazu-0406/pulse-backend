@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-19T12:52:00.501982+00:00",
+  "updated_at": "2026-10-19T20:30:34.779783+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Grab Reduces ANRs by 32% and i",
+      "f1": "Grab is Southeast Asia's leading superapp, offering deliveries, mobility, and fi",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/android-cli-device-streaming-and-skills"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "How Instagram Direct engineers",
-      "f1": "The team built an AI-native UI codebase that is 50% smaller than the original im",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/jetpack-compose-ai-native-ui-instagram-direct"
     }
   ]
 }
