@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-20T14:14:09.153936+00:00",
+  "updated_at": "2026-10-20T19:07:04.779441+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Remote Compose Gaming Widgets",
+      "f1": "Did you know you can build an interactive Android gaming widget? This blog post ",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/remote-compose-gaming-widgets"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Device Streaming and Android s",
-      "f1": "As Android developers, you have many choices when it comes to the agents, LLMs, ",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/android-cli-device-streaming-and-skills"
     }
   ]
 }
