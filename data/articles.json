@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-21T17:02:30.352437+00:00",
+  "updated_at": "2026-10-21T21:31:07.738810+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "A more reliable way to add and",
+      "f1": "Apps that target the upcoming Android release will no longer be able to directly",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Device Streaming and Android s",
-      "f1": "As Android developers, you have many choices when it comes to the agents, LLMs, ",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/android-cli-device-streaming-and-skills"
     }
   ]
 }
