@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-28T12:36:43.134571+00:00",
+  "updated_at": "2026-10-28T20:11:07.707166+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Agentic and Flexible: A next e",
+      "f1": "Today, at the Android Dev Summit, we are announcing the broad availability of ma",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development"
+    },
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "What's new in Android develope",
+      "f1": "This year at Android Dev Summit we shared how Android's developer tools are evol",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance"
+    },
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Your favorite agents are now i",
+      "f1": "Android Studio Rabbit 2 is now stable and ready for you to use in production. Th",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -18,33 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Bringing our latest frontier m",
-      "f1": "As agentic development accelerates, Android engineering is reaching an exciting ",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "New ways to drive smarter disc",
-      "f1": "Today, we shared how we’re taking our “more than a store” vision into its next c",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/google-play-discovery-engagement-growth"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Introducing the Googlebook Lin",
-      "f1": "With Googlebook, we’re excited to help users express themselves and gain access ",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm"
     }
   ]
 }
