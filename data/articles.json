@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-02T10:51:18.169271+00:00",
+  "updated_at": "2026-11-02T21:39:13.673461+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Developing for Today: 50+ New ",
+      "f1": "Over 900 attendees joined our event spaces for a keynote about our outlook on th",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/building-apps-developer-sessions"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Grab Reduces ANRs by 32% and i",
-      "f1": "Grab is Southeast Asia's leading superapp, offering deliveries, mobility, and fi",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time"
     }
   ]
 }
