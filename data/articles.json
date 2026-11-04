@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-04T14:18:51.549655+00:00",
+  "updated_at": "2026-11-04T21:12:42.685047+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Build for every screen with th",
+      "f1": "The Android ecosystem is a multi-device reality that spans phones, foldables, ta",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "A more reliable way to add and",
-      "f1": "Apps that target the upcoming Android release will no longer be able to directly",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android"
     }
   ]
 }
