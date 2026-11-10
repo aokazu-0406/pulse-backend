@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-10T10:57:05.833898+00:00",
+  "updated_at": "2026-11-10T19:36:16.968618+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Powering Seamless Player Sign-",
+      "f1": "With Unity powering over half of all mobile titles worldwide, first impressions ",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/open-source-google-sign-in-unity"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/building-apps-developer-sessions"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Agentic and Flexible: A next e",
-      "f1": "Today, at the Android Dev Summit, we are announcing the broad availability of ma",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development"
     }
   ]
 }
