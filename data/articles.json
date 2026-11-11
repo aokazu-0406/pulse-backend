@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-11T10:39:38.501274+00:00",
+  "updated_at": "2026-11-11T19:29:10.847311+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "How SmileID Scaled Identity Ve",
+      "f1": "Identity verification apps for banking and SIM registration require clear, high-",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Developing for Today: 50+ New ",
-      "f1": "Over 900 attendees joined our event spaces for a keynote about our outlook on th",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/building-apps-developer-sessions"
     }
   ]
 }
