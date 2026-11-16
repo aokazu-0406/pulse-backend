@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-16T06:03:36.678295+00:00",
+  "updated_at": "2026-11-16T19:28:54.141604+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Beyond the app: Expanding buye",
+      "f1": "Discover how Google Play’s channel expansion tools in Play Console expand buyer ",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/android-intelligence-system-in-app-agents-ads"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Build for every screen with th",
-      "f1": "The Android ecosystem is a multi-device reality that spans phones, foldables, ta",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates"
     }
   ]
 }
