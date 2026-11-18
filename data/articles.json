@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-18T11:27:17.172544+00:00",
+  "updated_at": "2026-11-18T20:20:21.355197+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Elevating games: New large scr",
+      "f1": "To give these experiences to players and ensure your games shine across every sc",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/elevating-game-quality-foldables-large-screens-google-play"
+    },
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "What's new in the Jetpack Comp",
+      "f1": "The Jetpack Compose November ‘26 release is stable! This release brings version ",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/jetpack-compose-november-2026-release"
+    },
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Elevating apps: New adaptive q",
+      "f1": "To give users the premium experience they expect and ensure your apps shine acro",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/google-play-adaptive-quality-standards"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -18,33 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "How SmileID Scaled Identity Ve",
-      "f1": "Identity verification apps for banking and SIM registration require clear, high-",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Powering Seamless Player Sign-",
-      "f1": "With Unity powering over half of all mobile titles worldwide, first impressions ",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/open-source-google-sign-in-unity"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Build for an expanding lineup ",
-      "f1": "From full immersion at home to glanceable experiences on the go, building on And",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/build-android-xr-devices-tools"
     }
   ]
 }
