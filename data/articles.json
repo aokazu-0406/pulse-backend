@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-17T15:51:03.203302+00:00",
+  "updated_at": "2026-11-18T00:52:17.911347+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Ship smarter keep rules: How l",
+      "f1": "As Android app and library developers, we all strive for the same goal: performa",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/build-android-xr-devices-tools"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "What’s new in intelligent apps",
-      "f1": "In the intelligence era, users are no longer just tapping through apps, they exp",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/android-intelligence-system-in-app-agents-ads"
     }
   ]
 }
