@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-19T11:25:18.181791+00:00",
+  "updated_at": "2026-11-19T20:24:45.693417+00:00",
   "articles": [
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Expanding Android developer ve",
+      "f1": "After over a year of joint preparation with industry leaders, regional partners,",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/android-developer-verification-2027"
+    },
     {
       "genre": "android",
       "emoji": "📰",
@@ -36,15 +45,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Beyond the app: Expanding buye",
-      "f1": "Discover how Google Play’s channel expansion tools in Play Console expand buyer ",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach"
     }
   ]
 }
