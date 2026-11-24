@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T12:09:46.073023+00:00",
+  "updated_at": "2026-11-24T02:05:47.426977+00:00",
   "articles": [
     {
       "genre": "android",
@@ -9,6 +9,15 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/android-developer-verification-2027"
+    },
+    {
+      "genre": "android",
+      "emoji": "📰",
+      "kw": "Elevating apps: New adaptive q",
+      "f1": "To give users the premium experience they expect and ensure your apps shine acro",
+      "f2": "",
+      "source": "Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/google-play-adaptive-quality-standards"
     },
     {
       "genre": "android",
@@ -27,15 +36,6 @@
       "f2": "",
       "source": "Android Developers' Blog",
       "link": "https://developer.android.com/blog/posts/jetpack-compose-november-2026-release"
-    },
-    {
-      "genre": "android",
-      "emoji": "📰",
-      "kw": "Elevating apps: New adaptive q",
-      "f1": "To give users the premium experience they expect and ensure your apps shine acro",
-      "f2": "",
-      "source": "Android Developers' Blog",
-      "link": "https://developer.android.com/blog/posts/google-play-adaptive-quality-standards"
     },
     {
       "genre": "android",
